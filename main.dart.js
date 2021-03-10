@@ -89745,10 +89745,10 @@ for(s=0;s<4;++s)r.push(s===this.r?this.Qn(!0):this.Qn(!1))
 return r},
 Qn:function(a){var s=null,r=P.b6(0,0,150,0,0),q=a?P.M(255,221,23,1):P.M(255,221,23,0.25)
 return G.Kx(s,s,C.W,new S.b2(q,s,s,K.eX(new P.b0(12,12)),s,s,C.E),r,s,8,new V.I(6,0,6,0),s,8)},
-w:function(a,b){var s=this,r=null,q=b.v(t.w).f,p=t.t
-return T.aa(H.a([M.o(r,D.afc(H.a([s.yH("Pide para llevar","y buscaremos la mejor opci\xf3n de entrega","assets/ilustraciones/OB1.png"),s.yH("Recoge en el resturante","Tendremos tu pedido listo cuando quieras","assets/ilustraciones/OB2.png"),s.yH("Reserva mesa",u.N,"assets/ilustraciones/OB3.png"),s.yH("Promociones especiales","Disfruta de descuentos exclusivos","assets/ilustraciones/OB4.png")],p),s.f,C.u,new E.ax3(s),new L.q6(r)),C.d,r,r,r,r,q.a.b*0.43,r,r,r,r,r,r),T.G(r,12,r),T.aI(s.a9s(),C.m,r,C.an,C.i)],p),C.m,r,C.as,C.i)},
-yH:function(a,b,c){var s=null,r=this.c.v(t.w).f
-return new T.aq(C.vC,T.aa(H.a([M.o(s,U.cl(C.y,s,s,s,!1,C.N,C.at,s,!1,s,new L.b9(c,s,s),s,!1,C.I,s),C.d,s,s,s,s,r.a.b*0.3,s,s,s,s,s,s),T.G(s,32,s),L.l(a,s,s,s,s,$.aKX(),C.aC,s),T.G(s,15,s),T.cc(M.o(s,L.l(b,s,s,s,s,$.aKS(),C.aC,s),C.d,s,s,s,s,s,s,s,s,s,s,s),1)],t.t),C.m,s,C.k,C.i),s)}}
+w:function(a,b){var s=this,r=null,q=t.t
+return T.aa(H.a([M.o(r,D.afc(H.a([s.yH("Pide para llevar","y buscaremos la mejor opci\xf3n de entrega","assets/ilustraciones/OB1.png"),s.yH("Recoge en el resturante","Tendremos tu pedido listo cuando quieras","assets/ilustraciones/OB2.png"),s.yH("Reserva mesa",u.N,"assets/ilustraciones/OB3.png"),s.yH("Promociones especiales","Disfruta de descuentos exclusivos","assets/ilustraciones/OB4.png")],q),s.f,C.u,new E.ax3(s),new L.q6(r)),C.d,r,r,r,r,550,r,r,r,r,r,r),T.G(r,12,r),T.aI(s.a9s(),C.m,r,C.an,C.i)],q),C.m,r,C.as,C.i)},
+yH:function(a,b,c){var s=null
+return new T.aq(C.vC,T.aa(H.a([M.o(s,U.cl(C.y,s,s,s,!1,C.N,C.at,s,!1,s,new L.b9(c,s,s),s,!1,C.I,s),C.d,s,s,s,s,350,s,s,s,s,s,s),T.G(s,32,s),L.l(a,s,s,s,s,$.aKX(),C.aC,s),T.G(s,15,s),T.cc(M.o(s,L.l(b,s,s,s,s,$.aKS(),C.aC,s),C.d,s,s,s,s,s,s,s,s,s,s,s),1)],t.t),C.m,s,C.k,C.i),s)}}
 E.ax3.prototype={
 $1:function(a){var s=this.a
 s.M(new E.ax2(s,a))},
