@@ -1,0 +1,52 @@
+{
+    "nombreApp" : "Componentes",
+    "rutas" : [
+        {
+            "ruta" : "ordersclient",
+            "icon" : "Llevar@3x.png",
+            "texto": "Mis pedidos"
+        },
+        {
+            "ruta" : "userdata",
+            "icon" : "Perfil@3x.png",
+            "texto": "Datos personales"
+        },
+        {
+            "ruta" : "addresses",
+            "icon" : "Ubicacion@3x.png",
+            "texto": "Direcciones"
+        },      
+        {
+            "ruta" : "paymethod",
+            "icon" : "Pago@3x.png",
+            "texto": "Métodos de pago"
+        },   
+        {
+            "ruta" : "notifications",
+            "icon" : "Notificaciones@3x.png",
+            "texto": "Notificaciones"
+        },
+        {
+            "ruta" : "frecuenly",
+            "icon" : "Preguntas@3x.png",
+            "texto": "Preguntas frecuentes"
+        },
+        {
+            "ruta" : "politics",
+            "icon" : "Politicas@3x.png",
+            "texto": "Políticas de privacidad"
+        },
+        {
+            "ruta" : "papamono",
+            "icon" : "Contacto@3x.png",
+            "texto": "Contacto"
+        }
+        ,
+        {
+            "ruta" : "list",
+            "icon" : "Cerrarsesion@3x.png",
+            "texto": "Cerrar sesión"
+        }
+    ]
+}
+
