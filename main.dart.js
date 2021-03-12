@@ -12048,12 +12048,6 @@ if(!B.aTf(C.c.ax(a,b)))return!1
 if(C.c.ax(a,b+1)!==58)return!1
 if(s===r)return!0
 return C.c.ax(a,r)===47},
-aGc:function(){var s=0,r=P.F(t.H)
-var $async$aGc=P.B(function(a,b){if(a===1)return P.C(b,r)
-while(true)switch(s){case 0:s=2
-return P.w(F.a18("config/app_config_dev.json"),$async$aGc)
-case 2:return P.D(null,r)}})
-return P.E($async$aGc,r)},
 b39:function(a){var s,r,q=B.b38(a),p=q.length
 for(s=-1,r="";++s,s<p;)r+=B.b37(q[s])
 return r},
@@ -14572,7 +14566,7 @@ $.zC().avV("__url_launcher::link",D.b89())
 $.aTv=n.gasp()
 s=2
 return P.w(P.b8Z(),$async$aGd)
-case 2:B.aGc()
+case 2:R.aGc()
 return P.D(null,r)}})
 return P.E($async$aGd,r)}},N={Bf:function Bf(a,b,c,d,e){var _=this
 _.c=a
@@ -23491,6 +23485,12 @@ aSM:function(a,b){if(a==null)throw H.b(R.aTn(b.$0()))},
 aNO:function(a,b,c){var s=K.I(a)
 if(c>0)s.toString
 return b},
+aGc:function(){var s=0,r=P.F(t.H)
+var $async$aGc=P.B(function(a,b){if(a===1)return P.C(b,r)
+while(true)switch(s){case 0:s=2
+return P.w(F.a18("config/app_config_prod.json"),$async$aGc)
+case 2:return P.D(null,r)}})
+return P.E($async$aGc,r)},
 b2S:function(a,b){var s,r,q,p,o
 if("websocket"===a){s=new Q.ap0()
 s.lL()
