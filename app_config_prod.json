@@ -1,5 +1,6 @@
 {
-    "hostname"   : "backend.papamono.es",
+    "hostname"   : "prod-backend.papamono.es",
+    "hostsocket" : "https://prod-backend.papamono.es",
     "pk_stripe"  : "pk_live_51H31tqIff8oi7erOs69XDmli6zFfQE6jSj7G0xNeLXEETvWbnznc459N29Nc688DTUbcKsGUAeYbkgxEbbacbl0K00ayCm0bOC",
     "merchantId" : "merchant.com.papamono.lpa",
     "message"    : ""
